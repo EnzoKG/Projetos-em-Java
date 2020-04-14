@@ -1,4 +1,4 @@
-package project_java;
+package project_java.my_projects;
 
 /**
  * teste
