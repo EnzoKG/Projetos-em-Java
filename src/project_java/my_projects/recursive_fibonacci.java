@@ -1,7 +1,9 @@
 package project_java.my_projects;
 
 import java.util.Scanner;
-
+/**
+ * Author: Enzo Kozoroski Giovanini
+ */
 public class recursive_fibonacci {
 
     //O método recebe a variavel num inserida na execução do programa
