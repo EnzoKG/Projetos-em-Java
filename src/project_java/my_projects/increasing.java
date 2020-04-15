@@ -31,7 +31,7 @@ public class increasing {
     }
 
     public static void main(String[] args) {
-        final Scanner scan = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
 
         //Vetor com exemplo de números.
         int[] numeros = {44, 33, 191, 1} ;
