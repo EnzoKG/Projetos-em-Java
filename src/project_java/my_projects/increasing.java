@@ -34,14 +34,14 @@ public class increasing {
         Scanner scan = new Scanner(System.in);
 
         //Vetor com exemplo de números.
-        int[] numeros = {44, 33, 191, 1} ;
+        int[] numeros = {3, 3, 4, 4, 5, 4, 6, 7, 8, 4, 6, 0, 6, 3, 1, 1, 2, 2, 2, 5} ;
 
         //Inserir o vetor no método.
         ordemCrescente(numeros);
 
         //Realizar a escrita do resultado.
         for (int i = 0; i < numeros.length; i++) {
-            System.out.println(numeros[i]);
+            System.out.printf("%d ", numeros[i]);
         }
 
     }
